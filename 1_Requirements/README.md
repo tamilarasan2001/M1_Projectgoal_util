@@ -9,14 +9,14 @@
   about the movies and theaters.Customers can booK ticket of his choice and may cancel a ticket.The goal of our project is to provide various types of customer facilities,
   and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
 # FEATURES 
-* Booking tickets,
-* Cancel tickets,
+* Booking tickets
+* Cancel tickets
 * Change ticket price
 * View all booking records
 # BENEFITS
- * For better experience,
- * User Friendly,
- * Provides flexibility,
+ * For better experience
+ * User Friendly
+ * Provides flexibility
  * Can be able to Select the seats as per choice.
  # EXPLANATION
  Movie Ticket Booking System have few inbuilt features like Admin Login. Admin Can Change Price of a Ticket. Admin Can View the Reserved Tickets. Admin Exit System. User Login with Credatials.User View the Movies Avaliable. User Purchase a Ticket. User View the avaliable seats. User Cancel a Ticket. User Exit System.
