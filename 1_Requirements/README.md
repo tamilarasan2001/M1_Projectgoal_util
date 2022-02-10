@@ -26,8 +26,12 @@ View all booking records
 # Who
 Theater 
 # What
-To Build the system to Book tickets,
+To Build a system to Book tickets,
 Cancel tickets,
 Change ticket price
 View all booking records
+# When
+when user wants to save time and user wants to reduce manual work and perform task quicky.
+# WHERE
+ This issue is in all part of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
 
