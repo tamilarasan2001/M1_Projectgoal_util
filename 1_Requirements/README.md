@@ -13,3 +13,8 @@ Booking tickets,
 Cancel tickets,
 Change ticket price
 View all booking records
+#BENEFITS
+# For better experience 
+# User Friendly
+#Provides flexibility
+# Can be able to Select the seats as per choice
