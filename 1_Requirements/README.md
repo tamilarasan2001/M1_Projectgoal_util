@@ -37,7 +37,7 @@ View all booking records
 # HOW
 * This issue can solved by creating a system where we can book tickets,Cancel tickets,Change ticket price,View all booking records.
 
-| ID   |              Description                               | Category  |	   Status       |
+  | ID   |              Description                               | Category  |	   Status       |
 | :---:|                                     :---:              | :---:     |  IMPLEMENTED    |
 | HR01 |	User shall be able to login to the sys                 | Techincal |  IMPLEMENTED    |
 | HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    | 
