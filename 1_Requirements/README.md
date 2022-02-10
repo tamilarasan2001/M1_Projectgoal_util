@@ -9,7 +9,7 @@
   about the movies and theaters.Customers can booK ticket of his choice and may cancel a ticket.The goal of our project is to provide various types of customer facilities,
   and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
 # FEATURES 
-Booking tickets
-Cancel tickets
+Booking tickets,
+Cancel tickets,
 Change ticket price
 View all booking records
