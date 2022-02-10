@@ -36,6 +36,7 @@ View all booking records
 * There is lot of Bokking tickets and Cancelling tickets happening in theater all over the world.
 # HOW
 * This issue can solved by creating a system where we can book tickets,Cancel tickets,Change ticket price,View all booking records.
+# DESCRIPTION
 
 | ID   |              Description                               | Category  |	   Status       |
 | :---:|                                     :---:              | :---:     |  IMPLEMENTED    |
