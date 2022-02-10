@@ -13,7 +13,7 @@ Booking tickets,
 Cancel tickets,
 Change ticket price
 View all booking records
-BENEFITS
+# BENEFITS
  For better experience,
  User Friendly,
  Provides flexibility,
