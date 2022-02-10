@@ -37,7 +37,7 @@ View all booking records
 # HOW
 * This issue can solved by creating a system where we can book tickets,Cancel tickets,Change ticket price,View all booking records.
 # DESCRIPTION
-
+# HIGH LEVEL REQUIREMENTS
 | ID   |              Description                               | Category  |	   Status       |
 |------|--------------------------------------------------------|-----------|-----------------|
 | HR01 |	User shall be able to login to system                  | Techincal |  IMPLEMENTED    |
@@ -46,7 +46,7 @@ View all booking records
 | HR04 |	User shall be able to cancel a ticket                  |	Techincal |	 IMPLEMENTED    |
 | HR05 |	User shall be able to view the reserved seats          |	Techincal |  IMPLEMENTED    |
 
-
+LOW LEVEL REQUIREMENTS
 
 | ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) | 
 | :---:  |          :---:          | :---: | :---: |
