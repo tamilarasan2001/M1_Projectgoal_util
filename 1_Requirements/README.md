@@ -28,7 +28,7 @@ Theater
 # What
 To Build a system to Book tickets,
 Cancel tickets,
-Change ticket price
+Change ticket price,
 View all booking records
 # When
 when user wants to save time and user wants to reduce manual work and perform task quicky.
