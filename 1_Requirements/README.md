@@ -48,14 +48,14 @@ View all booking records
 
 |  ID    |              Description                                         | Category                        |	  Status    |
 | :---:  |          :---:          | :---: | :---: |
-| ID     |    	Description	HLR ID	                                                                          | Status (Implemented/Future) |                 
+| ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) |                 
 | LR01   | 	User shall be able to login to the system with correct login details                      |	HR01 |	IMPLEMENTED   |
 | LR02   |	User need to book a ticket in a user entry mode                                           |	HR01 |	IMPLEMENTED   |                      
 | LR03   |	If appropriate login details are not entered a message is displayed-"wrong password"	   |  HR01 |	IMPLEMENTED   |
 | LR04   | 	Displaying the movies available                                                     	   |  HR02 |	IMPLEMENTED   |
 | LR05   |  Admin can change the price for the movie	                                                |  HR02 |   IMPLEMENTED   |
 | LR06	|  If user specifies seat number which is booked ,message appears that  seat is unavaliable  | 	HR05 | 	IMPLEMENTED   |
-LR07	Displaying the summary of the ticket booked	HR03	IMPLEMENTED
+| LR07 |	Displaying the summary of the ticket booked|	HR03|	IMPLEMENTED|
 
 
 
