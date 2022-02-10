@@ -9,15 +9,15 @@
   about the movies and theaters.Customers can booK ticket of his choice and may cancel a ticket.The goal of our project is to provide various types of customer facilities,
   and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
 # FEATURES 
-Booking tickets,
-Cancel tickets,
-Change ticket price
-View all booking records
+* Booking tickets,
+* Cancel tickets,
+* Change ticket price
+* View all booking records
 # BENEFITS
- For better experience,
- User Friendly,
- Provides flexibility,
- Can be able to Select the seats as per choice.
+ * For better experience,
+ * User Friendly,
+ * Provides flexibility,
+ * Can be able to Select the seats as per choice.
  # EXPLANATION
  Movie Ticket Booking System have few inbuilt features like Admin Login. Admin Can Change Price of a Ticket. Admin Can View the Reserved Tickets. Admin Exit System. User Login with Credatials.User View the Movies Avaliable. User Purchase a Ticket. User View the avaliable seats. User Cancel a Ticket. User Exit System.
  # SWOT ANALYSIS
@@ -31,7 +31,8 @@ Cancel tickets,
 Change ticket price,
 View all booking records
 # When
-when user wants to save time and user wants to reduce manual work and perform task quicky.
+* when user wants to save time and user wants to reduce manual work and perform task quicky.
 # WHERE
- This issue is in all part of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
-
+* There is lot of Bokking tickets and Cancelling tickets happening in theater all over the world.
+# HOW
+* This issue can solved by creating a system where we can book tickets,Cancel tickets,Change ticket price,View all booking records.
