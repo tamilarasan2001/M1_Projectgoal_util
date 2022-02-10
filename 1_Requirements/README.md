@@ -39,7 +39,7 @@ View all booking records
 # DESCRIPTION
 
 | ID   |              Description                               | Category  |	   Status       |
-| :---:|                                     :---:              | :---:     |  IMPLEMENTED    |
+|------|--------------------------------------------------------|-----------|-----------------|
 | HR01 |	User shall be able to login to the sys                 | Techincal |  IMPLEMENTED    |
 | HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    | 
 | HR03 |	User shall be able to get summary of the ticket booked |	Techincal |  IMPLEMENTED    |
