@@ -22,4 +22,12 @@ View all booking records
  Movie Ticket Booking System have few inbuilt features like Admin Login. Admin Can Change Price of a Ticket. Admin Can View the Reserved Tickets. Admin Exit System. User Login with Credatials.User View the Movies Avaliable. User Purchase a Ticket. User View the avaliable seats. User Cancel a Ticket. User Exit System.
  # SWOT ANALYSIS
  ![SWOT](https://user-images.githubusercontent.com/98837668/153398368-f721088a-44a1-4f69-b9dd-9696831ccc56.png)
+ # 4W's and 1'H
+# Who
+Theater 
+# What
+To Build the system to Book tickets,
+Cancel tickets,
+Change ticket price
+View all booking records
 
