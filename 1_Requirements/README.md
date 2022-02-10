@@ -46,17 +46,18 @@ View all booking records
 | HR04 |	User shall be able to cancel a ticket                  |	Techincal |	 IMPLEMENTED    |
 | HR05 |	User shall be able to view the reserved seats          |	Techincal |  IMPLEMENTED    |
 
-LOW LEVEL REQUIREMENTS
+# LOW LEVEL REQUIREMENTS
 
 | ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) | 
 | :---:  |          :---:          | :---: | :---: |
-| LR01   | 	User shall be able to login to the system with correct login details                      |	HR01 |	IMPLEMENTED   |
+| LR01   | 	User can login to the system with correct login details                      |	HR01 |	IMPLEMENTED   |
 | LR02   |	User need to book a ticket in a user entry mode                                           |	HR01 |	IMPLEMENTED   |                      
 | LR03   |	If wrong login details are entered a message "wrong password" is displayed	   |  HR01 |	IMPLEMENTED   |
 | LR04   | 	Displaying the movies available                                                     	   |  HR02 |	IMPLEMENTED   |
 | LR05   |  Admin able to change the price for the movie	                                                |  HR02 |   IMPLEMENTED   |
-| LR07 |	Displaying the summary of the ticket booked|	HR03|	IMPLEMENTED|
+
 | LR06	|  If user specifies seat number which is booked ,message appears that  seat is unavaliable  | 	HR05 | 	IMPLEMENTED   |
+| LR07 |	Displaying the summary of the ticket booked|	HR03|	IMPLEMENTED|
 
 
 
