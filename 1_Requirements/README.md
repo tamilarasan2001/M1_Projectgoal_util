@@ -55,7 +55,6 @@ View all booking records
 | LR03   |	If wrong login details are entered a message "wrong password" is displayed	   |  HR01 |	IMPLEMENTED   |
 | LR04   | 	Displaying the movies available                                                     	   |  HR02 |	IMPLEMENTED   |
 | LR05   |  Admin able to change the price for the movie	                                                |  HR02 |   IMPLEMENTED   |
-
 | LR06	|  If user specifies seat number which is booked ,message appears that  seat is unavaliable  | 	HR05 | 	IMPLEMENTED   |
 | LR07 |	Displaying the summary of the ticket booked|	HR03|	IMPLEMENTED|
 
