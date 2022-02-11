@@ -19,3 +19,24 @@ cinemas helps people socialize better. It connects people from anywhere.Movie Ti
 Movie Ticket Booking System is built to can add ticket reserve detail, display all booked ticket, remove booked seats, update ticket price
 # SWOT ANALAYSIS
 ![SWOT](https://user-images.githubusercontent.com/98837668/153616786-ebd08e99-990b-46c7-a1fe-1831a20a8993.png)
+# DETAILED REQUIREMENTS
+# HIGH LEVEL REQUIREMENTS
+| ID   |              Description                               | Category  |	   Status       |
+|------|--------------------------------------------------------|-----------|-----------------|
+| HR01 |	User shall be able to login to system                  | Techincal |  IMPLEMENTED    |
+| HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    | 
+| HR03 |	User shall be able to get summary of the ticket booked |	Techincal |  IMPLEMENTED    |
+| HR04 |	User shall be able to cancel a ticket                  |	Techincal |	 IMPLEMENTED    |
+| HR05 |	User shall be able to view the reserved seats          |	Techincal |  IMPLEMENTED    |
+
+# LOW LEVEL REQUIREMENTS
+
+| ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) | 
+| :---:  |          :---:          | :---: | :---: |
+| LR01   | 	User can login to the system with correct login creditials                    |	HR01 |	IMPLEMENTED   |
+| LR02   |	User need to book a ticket                                           |	HR01 |	IMPLEMENTED   |                      
+| LR03   |	If wrong login details are entered a message "wrong password" is shown  |  HR01 |	IMPLEMENTED   |
+| LR04   | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
+| LR05   |  Admin able to change the price for the movie	                                                |  HR02 |   IMPLEMENTED   |
+| LR06	|  If user selects booked seat number , message appears that seat is unavaliable  | 	HR05 | 	IMPLEMENTED   |
+| LR07 |	Displaying the summary of the ticket booked|	HR03|	IMPLEMENTED|
