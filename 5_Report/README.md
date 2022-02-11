@@ -17,3 +17,5 @@ cinemas helps people socialize better. It connects people from anywhere.Movie Ti
 * Can be able to Select the seats as per choice
 # EXPLANATION
 Movie Ticket Booking System is built to can add ticket reserve detail, display all booked ticket, remove booked seats, update ticket price
+# SWOT ANALAYSIS
+![SWOT](https://user-images.githubusercontent.com/98837668/153616786-ebd08e99-990b-46c7-a1fe-1831a20a8993.png)
