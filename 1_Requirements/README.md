@@ -12,14 +12,14 @@
 * This system is based on Booking tickets
 * Cancel tickets
 * Can be able view all bokking records
-* change the prize of ticket
+* Admin change the prize of ticket
 * Easy to operate and understand
 
 # BENEFITS
  * For better experience
  * User Friendly
  * Provides flexibility
- * Can be able to Select the seats as per choice.
+ * Can be able to Select the seats as per choice
  # EXPLANATION
  Movie Ticket Booking System have few inbuilt features like Admin Login. Admin Can Change Price of a Ticket. Admin Can View the Reserved Tickets. Admin Exit System. User Login with Credatials.User View the Movies Avaliable. User Purchase a Ticket. User View the avaliable seats. User Cancel a Ticket. User Exit System.
  # SWOT ANALYSIS
@@ -28,10 +28,9 @@
 # Who
 Theater 
 # What
-To Build a system to Book tickets,
-Cancel tickets,
-Change ticket price,
-View all booking records
+* Add new Ticket Reservation
+* Ticket Price can be updated
+* Display All Ticket Details
 # When
 * when user wants to save time and user wants to reduce manual work and perform task quicky.
 # WHERE
