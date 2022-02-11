@@ -1,1 +1,19 @@
+# INTRODUCTION
+Movie Ticket Booking System is based on the concept of booking movie tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records.
 
+# SCOPE
+cinemas helps people socialize better. It connects people from anywhere.Movie Ticket Booking System enables the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can booK ticket of his choice and may cancel a ticket.The goal of our project is to provide various types of customer facilities
+
+# FEATURES
+* This system is based on Booking tickets
+* Cancel tickets
+* Can be able view all bokking records
+* Admin change the prize of ticket
+* Easy to operate and understand
+# BENEFITS
+* For better experience
+* User Friendly
+* Provides flexibility
+* Can be able to Select the seats as per choice
+# EXPLANATION
+Movie Ticket Booking System is built to can add ticket reserve detail, display all booked ticket, remove booked seats, update ticket price
