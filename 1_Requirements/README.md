@@ -9,10 +9,12 @@
   about the movies and theaters.Customers can booK ticket of his choice and may cancel a ticket.The goal of our project is to provide various types of customer facilities,
   and provide good  customer service It should fulfill almost all the process requirements of booking a ticket
 # FEATURES 
-* Booking tickets
+* This system is based on Booking tickets
 * Cancel tickets
-* Change ticket price
-* View all booking records
+* Can be able view all bokking records
+* change the prize of ticket
+* Easy to operate and understand
+
 # BENEFITS
  * For better experience
  * User Friendly
