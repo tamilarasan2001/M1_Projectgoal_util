@@ -3,7 +3,7 @@
    Movie Ticket Booking System is based on the concept of booking movie tickets.The project has been developed to
  carry out process easily and quickly.The system Displays All Movie Ticketing Records.It enables the user to Search Movie Ticketing Records,book movie tickets.
 # SCOPE
-  cinemas helps people socialize better. It connects people from anywhere.Movie Ticket Booking System enables the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can booK ticket of his choice.The goal of our project is to provide various types of customer facilities
+  cinemas helps people socialize better.It connects people from anywhere.Movie Ticket Booking System enables the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can booK ticket of his choice.The goal of our project is to provide various types of customer facilities
 # FEATURES
 * This system is based on Booking tickets
 * Can be able search and book tickets
@@ -16,7 +16,7 @@
  * Provides flexibility
  * Can be able to Select the seats as per choice
  # EXPLANATION
-   Movie Ticket Booking System is built to  can add ticket reserve detail, display all booked ticket, remove booked seats, update ticket price
+   Movie Ticket Booking System is built to add ticket reserve detail, display all booked ticket, remove booked seats, update ticket price
  # SWOT ANALYSIS
  ![SWOT](https://user-images.githubusercontent.com/98837668/153398368-f721088a-44a1-4f69-b9dd-9696831ccc56.png)
  # 4W's and 1'H
@@ -29,9 +29,9 @@ This is useful for Movie Theater all over the world
 # When
 * when user wants to save time and user wants to reduce manual work and perform task quicky.
 # WHERE
-* There is lot of Bokking tickets and Cancelling tickets happening in theater all over the world.
+* There is lot of Bokking tickets happening in the theater all over the world.
 # HOW
-* This issue can solved by creating a system where we can book tickets,Cancel tickets,Change ticket price,View all booking records.
+* This issue can solved by creating a system where we can select movies and book tickets,View all booking records.
 # DETAILED REQUIREMENTS
 # HIGH LEVEL REQUIREMENTS
 | ID   |              Description                               | Category  |	   Status       |
