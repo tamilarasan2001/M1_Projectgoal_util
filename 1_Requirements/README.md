@@ -3,7 +3,7 @@
    Movie Ticket Booking System is based on the concept of booking movie tickets.The project has been developed to
  carry out process easily and quickly.The system Displays All Movie Ticketing Records.It enables the user to Search Movie Ticketing Records,book movie tickets.
 # SCOPE
-  cinemas helps people socialize better.It connects people from anywhere.Movie Ticket Booking System enables the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can booK ticket of his choice.The goal of our project is to provide various types of customer facilities
+  Cinemas helps people socialize better.It connects people from anywhere.Movie Ticket Booking System enables the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can booK ticket of his choice.The goal of our project is to provide various types of customer facilities
 # FEATURES
 * This system is based on Booking tickets
 * Can be able search and book tickets
@@ -45,7 +45,6 @@ This is useful for Movie Theater all over the world
 | :---:  |          :---:          | :---: | :---: |
 | LR01   |	User need to book a ticket                                           |	HR01 |	IMPLEMENTED   |                      
 | LR02  | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
-| LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|
-
-
+| LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|         
+ 
 
