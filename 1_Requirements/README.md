@@ -1,7 +1,7 @@
 # REQUIREMENTS
 # INTRODUCTION
    Movie Ticket Booking System is based on the concept of booking movie tickets.The project has been developed to
- carry out process easily and quickly.The system Displays All Movie Ticketing Records.It enables the user to Search Movie Ticketing Records,search movies and book movie tickets .
+ carry out process easily and quickly.The system Displays All Movie Ticketing Records.It enables the user to Search Movie Ticketing Records,search movies and book movie tickets 
 # SCOPE
   Cinemas helps people socialize better.It connects people from anywhere.Movie Ticket Booking System enables the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can booK ticket of his choice.The goal of our project is to provide various types of customer facilities
 # FEATURES
