@@ -16,5 +16,5 @@
 |Feature Id|	Feature|
 |---|----|
 |F_01|	Add new booking |
-|F_02|	select movie|
+|F_02|	Select movie|
 |F_03|	Summary of Ticket|
