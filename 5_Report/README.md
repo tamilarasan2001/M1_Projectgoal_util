@@ -33,7 +33,7 @@ Movie Ticket booking can be done from anywhere.Movie Ticket Booking System is bu
 | LR02  | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
 | LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|
 
-#SUMMARY 
+# SUMMARY 
 
  Movie Ticket Booking System provides 
 the customers facility to book tickets for a
