@@ -1,8 +1,8 @@
 | ID   |              Description                               | EXP IN  |	   EXP OUT      | ACTUAL OUT| PASS/FAIL|
 |------|--------------------------------------------------------|-----------|-----------------|--------------------|
-| HR01 |	User shall be able to login to system                  | Techincal |  IMPLEMENTED    ||
-| HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    | |
-| HR03 |	User shall be able to get summary of the ticket booked |	Techincal |  IMPLEMENTED    ||
+| HR01 |	User shall be able to login to system                  | Techincal |  IMPLEMENTED    |PASS|
+| HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    |PASS |
+| HR03 |	User shall be able to get summary of the ticket booked |	Techincal |  IMPLEMENTED    |PASS|
 # LOW LEVEL REQUIREMENTS
 
 | ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) | 
