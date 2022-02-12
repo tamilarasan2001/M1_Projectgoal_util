@@ -6,6 +6,5 @@
 |  HLR3|Search Movie Booking Record(s) | Enter booking number | Enter booking number |Enter booking number|
 |  HLR44|  Display All Movies| enter choice | Enter Choice  | Enter Choice|Enter Choice|
 
- 
  # COMPILER VISUAL STUDIO CODE
 
