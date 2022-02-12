@@ -24,7 +24,7 @@
 This is useful for Movie Theater all over the world
 # What
 * To Add new Ticket Reservation
-* Ticket Price can be updated
+* To search the movie available
 * To Display All Ticket Details
 # When
 * when user wants to save time and user wants to reduce manual work and perform task quicky.
