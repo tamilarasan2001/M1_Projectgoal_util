@@ -20,3 +20,15 @@ Movie Ticket Booking System is built to can add ticket reserve detail, display a
 # SWOT ANALAYSIS
 ![SWOT](https://user-images.githubusercontent.com/98837668/153616786-ebd08e99-990b-46c7-a1fe-1831a20a8993.png)
 # DETAILED REQUIREMENTS
+| ID   |              Description                               | Category  |	   Status       |
+|------|--------------------------------------------------------|-----------|-----------------|
+| HR01 |	Able to add new movie records                 | Techincal |  IMPLEMENTED    |
+| HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    | 
+| HR03 |	User shall be able to get summary of the ticket booked |	Techincal |  IMPLEMENTED    |
+# LOW LEVEL REQUIREMENTS
+
+| ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) | 
+| :---:  |          :---:          | :---: | :---: |
+| LR01   |	User need to book a ticket                                           |	HR01 |	IMPLEMENTED   |                      
+| LR02  | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
+| LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|
