@@ -18,4 +18,4 @@
 |F_01|	Add new booking |
 |F_02|	Display movie|
 |F_03|Select Movie|
-|F_03|	Summary of Ticket|
+|F_04|	Summary of Ticket|
