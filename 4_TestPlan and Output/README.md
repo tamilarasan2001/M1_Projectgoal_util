@@ -1,5 +1,5 @@
 | ID   |              Description                               | EXP IN  |	   EXP OUT      |  
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | HR01 |	add new booking record  |  IMPLEMENTED |   | |
 | HR02 |	User shall be able to purchase a ticket                |  |      ||
 | HR03 |	User shall be able to get summary of the ticket booked |	 |  IMPLEMENTED    | |
