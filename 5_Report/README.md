@@ -1,4 +1,4 @@
-#SUMMARY REPORT
+# SUMMARY REPORT
 # INTRODUCTION
 Movie Ticket Booking System is based on the concept of booking movie tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records.
 
@@ -32,11 +32,17 @@ Movie Ticket booking can be done from anywhere.Movie Ticket Booking System is bu
 | LR01   |	User need to book a ticket                                           |	HR01 |	IMPLEMENTED   |                      
 | LR02  | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
 | LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|
+
 #SUMMARY 
-Online Movie Ticket Booking System provides 
+
+ Movie Ticket Booking System provides 
 the customers facility to book tickets for a
  movie in online and to gather information
- about the movies and theaters. Customer needs to register at the site to book tickets to the movie. After selecting the show, the user is presented a seating layout so that he can select seats of his choice. Thereafter he is redirected to the payment gateway for making a transaction.
+ about the movies and theaters. 
+Customer needs to register at the site to book tickets to the movie.
+ After selecting the show, 
+the user is presented a seating layout so
+ that he can select seats of his choice. Thereafter he is redirected to the payment gateway for making a transaction.
 
 
 
