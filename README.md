@@ -8,3 +8,10 @@
 |2_Architecture|	Documents specifying design details|
 |3_Implementation	|All code and documentation|
 |4_Test_plan and output|	Documents with test plans and procedures|
+
+# Features
+|Feature Id|	Feature|
+|---|----|
+|F_01|	Add new booking |
+|F_02|	select movie|
+|F_03|	Summary of Ticket|
