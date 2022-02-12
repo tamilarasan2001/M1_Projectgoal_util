@@ -1,9 +1,12 @@
-| ID   |              Description                               | EXP IN  |	   EXP OUT      |  
-|:---:|:---:|:---:|:---:|
-| HR01 |	add new booking record  |  IMPLEMENTED |   | |
-| HR02 |	User shall be able to purchase a ticket                |  |      ||
-| HR03 |	User shall be able to get summary of the ticket booked |	 |  IMPLEMENTED    | |
-# LOW LEVEL REQUIREMENTS
+
+| **Test ID** |  **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out**  |    
+|-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
+|  T_01|Provide required details for login to book a ticket| password| Successfully logined In | Successfully logined In |
+|  T_02| When wrong password is entered| Password|  Entered Password is wrong | Entered Password is wrong  |
+|  T_03|Display the  details of movie available|  Enter choice | Display list | Display list  |
+|  T_04| Purchase a ticket for the movie available | enter choice | ThankYou for Booking Ticket | ThankYou for Booking Ticket |
+|  T_05|  Summary of a ticket for purchased movie| enter choice | Booking ID,Customer name,Show Name,Hallno,Price | Booking ID,Customer name,Show Name,Hallno,Price |
+
 
 | ID     |    	Description |EXP IN	                                                                          | EXP OUT | 
 | :---:  |          :---:          | :---: | :---: |
