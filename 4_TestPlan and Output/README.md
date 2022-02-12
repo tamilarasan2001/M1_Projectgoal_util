@@ -1,13 +1,13 @@
-| ID   |              Description                               | EXP IN  |	   EXP OUT      | ACTUAL OUT| PASS/FAIL|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| HR01 |	User shall be able to login to system                  | Techincal |  IMPLEMENTED    |PASS|
-| HR02 |	User shall be able to purchase a ticket                | Techincal |  IMPLEMENTED    |PASS |
-| HR03 |	User shall be able to get summary of the ticket booked |	Techincal |  IMPLEMENTED    |PASS|
+| ID   |              Description                               | EXP IN  |	   EXP OUT      | ACTUAL OUT| 
+|:---:|:---:|:---:|:---:|:---:|
+    | HR01 |	add new booking record  |  IMPLEMENTED    |PASS|
+| HR02 |	User shall be able to purchase a ticket                |  |  IMPLEMENTED    |PASS |
+| HR03 |	User shall be able to get summary of the ticket booked |	 |  IMPLEMENTED    |PASS|
 # LOW LEVEL REQUIREMENTS
 
-| ID     |    	Description |	HLR ID	                                                                          | Status (Implemented/Future) | 
+| ID     |    	Description |EXP IN	                                                                          | EXP OUT | 
 | :---:  |          :---:          | :---: | :---: |
-| LR01   | 	User can login to the system with correct login creditials                    |	HR01 |	IMPLEMENTED   |
-| LR02   |	User need to book a ticket                                           |	HR01 |	IMPLEMENTED   |                      
-| LR03  | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
+| LR01   | 	User can login to the system with correct login creditials                    |	HR01 |	   |
+| LR02   |	User need to book a ticket                                           |	HR01 |	   |                      
+| LR03  | 	Displaying the movies                                                    	   |  HR02 |	   |
 | LR04 |	Displaying the summary of the ticket booked|	HR03|	IMPLEMENTED|
