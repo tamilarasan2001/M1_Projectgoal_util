@@ -45,7 +45,7 @@ This is useful for Movie Theater all over the world
 | :---:  |          :---:          | :---: | :---: |
 | LR01   |	User need to book a ticket                                           |	HR01 |	IMPLEMENTED   |                      
 | LR02  | 	Displaying the movies                                                    	   |  HR02 |	IMPLEMENTED   |
-| LR03 |	Displaying the summary of the ticket booked|	HR03	IMPLEMENTED|
+| LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|
 
 
 
