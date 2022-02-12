@@ -34,3 +34,7 @@ Movie Ticket Booking System is built to can add ticket reserve detail, display a
 | LR03 |	Displaying the summary of the ticket booked|	HR03	|IMPLEMENTED|
 
 ![flowchart](https://user-images.githubusercontent.com/98837668/153705659-c4f4b9a4-a2b9-41a1-b2b3-35defa97c98e.png)
+# FLOWCHART
+
+![flowchart](https://user-images.githubusercontent.com/98837668/153708829-7f41ea3e-1131-40df-8fdf-ca9a2826a1bc.png)
+
