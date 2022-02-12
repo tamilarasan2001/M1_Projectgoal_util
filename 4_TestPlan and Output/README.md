@@ -1,7 +1,6 @@
 | ID   |              Description                               | EXP IN  |	   EXP OUT      | ACTUAL OUT| 
-|:---:|:---:|:---:|:---:|:---:|
-    | HR01 |	add new booking record  |  IMPLEMENTED    |PASS|
-| HR02 |	User shall be able to purchase a ticket                |  |  IMPLEMENTED    |PASS |
+|:---:|:---:|:---:|:---:|:---:| | HR01 |	add new booking record  |  IMPLEMENTED    |PASS|
+| HR02 |	User shall be able to purchase a ticket                |  |      |PASS |
 | HR03 |	User shall be able to get summary of the ticket booked |	 |  IMPLEMENTED    |PASS|
 # LOW LEVEL REQUIREMENTS
 
