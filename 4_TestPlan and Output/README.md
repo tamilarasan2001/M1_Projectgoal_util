@@ -1,6 +1,6 @@
 
 | **Test ID** |  **Description**                                              | **Exp IN** | **Exp OUT** |
-|-------------|-----|--------------------------------------------------------------|------------|-------------|
+|-------------|-----|--------------------------------------------------------------|------------|
 |  T_01|Provide required details for login to book a ticket| password| Successfully logined In | Successfully logined In |
 |  T_02| When wrong password is entered| Password|  Entered Password is wrong | Entered Password is wrong  |
 |  T_03|Display the  details of movie available|  Enter choice | Display list | Display list  |
