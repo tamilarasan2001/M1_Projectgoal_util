@@ -1,6 +1,19 @@
 #include "complex.h"
 
-
+struct book
+{ 
+	int mnum;
+	char customername[201];
+	char moviename[20];
+	char mdate[12];
+	int mtimehour;
+	int mtime;
+	char ttype[30];
+	int guestsnum;
+	int housenum;
+	int fee;
+}
+;
 
 void addMov()
 {
