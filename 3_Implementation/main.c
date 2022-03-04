@@ -1,12 +1,4 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<string.h>
-
-void addMov();
-void dispMov();
-void findMov();
-void showmovie();
-
+#include "complex.h"
 
 void main()
 {	
