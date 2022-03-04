@@ -174,7 +174,7 @@ void showmovie()
 					printf("\n");
 					main();
 				case 2:
-					printf("\n");4
+					printf("\n");
 					showmovie();
 				default:
 					printf("Please select (1) or (2)!\n");
